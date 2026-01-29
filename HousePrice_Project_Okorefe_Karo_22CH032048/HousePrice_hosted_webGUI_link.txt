@@ -2,6 +2,7 @@ Name: Okorefe Karo
 Matric Number: 22CH032048
 Machine Learning Algorithm: Linear Regression
 Model Persistence Method: Joblib
-Live URL: https://houseprice-project-obisesan-anjolaoluwa.onrender.com
+Live URL: https://houseprice-project-okorefe-karo.onrender.com
 GitHub Repository: https://github.com/karookorefe-stack/HousePrice_Project_Okorefe_Karo_22CH032048.git
+
 
